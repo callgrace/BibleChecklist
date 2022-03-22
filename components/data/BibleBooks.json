@@ -1,0 +1,335 @@
+[
+  {
+    "OT": [
+      {
+        "name": "Genesis",
+        "chapters": 50,
+        "key": "a1"
+      },
+      {
+        "name": "Exodus",
+        "chapters": 40,
+        "key": "a2"
+      },
+      {
+        "name": "Leviticus",
+        "chapters": 27,
+        "key": "a3"
+      },
+      {
+        "name": "Numbers",
+        "chapters": 36,
+        "key": "a4"
+      },
+      {
+        "name": "Deuteronomy",
+        "chapters": 34,
+        "key": "a5"
+      },
+      {
+        "name": "Joshua",
+        "chapters": 24,
+        "key": "a6"
+      },
+      {
+        "name": "Judges",
+        "chapters": 21,
+        "key": "a7"
+      },
+      {
+        "name": "Ruth",
+        "chapters": 4,
+        "key": "a8"
+      },
+      {
+        "name": "1 Samuel",
+        "chapters": 31,
+        "key": "a9"
+      },
+      {
+        "name": "2 Samuel",
+        "chapters": 24,
+        "key": "a10"
+      },
+      {
+        "name": "1 Kings",
+        "chapters": 22,
+        "key": "a11"
+      },
+      {
+        "name": "2 Kings",
+        "chapters": 25,
+        "key": "a12"
+      },
+      {
+        "name": "1 Chronicles",
+        "chapters": 29,
+        "key": "a13"
+      },
+      {
+        "name": "2 Chronicles",
+        "chapters": 36,
+        "key": "a14"
+      },
+      {
+        "name": "Ezra",
+        "chapters": 10,
+        "key": "a15"
+      },
+      {
+        "name": "Nehemiah",
+        "chapters": 13,
+        "key": "a16"
+      },
+      {
+        "name": "Esther",
+        "chapters": 10,
+        "key": "a17"
+      },
+      {
+        "name": "Job",
+        "chapters": 42,
+        "key": "a18"
+      },
+      {
+        "name": "Psalm",
+        "chapters": 150,
+        "key": "a19"
+      },
+      {
+        "name": "Proverbs",
+        "chapters": 31,
+        "key": "a20"
+      },
+      {
+        "name": "Ecclesiastes",
+        "chapters": 12,
+        "key": "a21"
+      },
+      {
+        "name": "Song of Solomon",
+        "chapters": 8,
+        "key": "a22"
+      },
+      {
+        "name": "Isaiah",
+        "chapters": 66,
+        "key": "a23"
+      },
+      {
+        "name": "Jeremiah",
+        "chapters": 52,
+        "key": "a24"
+      },
+      {
+        "name": "Lamentations",
+        "chapters": 5,
+        "key": "a25"
+      },
+      {
+        "name": "Ezekiel",
+        "chapters": 48,
+        "key": "a26"
+      },
+      {
+        "name": "Daniel",
+        "chapters": 12,
+        "key": "a27"
+      },
+      {
+        "name": "Hosea",
+        "chapters": 14,
+        "key": "a28"
+      },
+      {
+        "name": "Joel",
+        "chapters": 3,
+        "key": "a29"
+      },
+      {
+        "name": "Amos",
+        "chapters": 9,
+        "key": "a30"
+      },
+      {
+        "name": "Obadiah",
+        "chapters": 1,
+        "key": "a31"
+      },
+      {
+        "name": "Jonah",
+        "chapters": 4,
+        "key": "a32"
+      },
+      {
+        "name": "Micah",
+        "chapters": 7,
+        "key": "a33"
+      },
+      {
+        "name": "Nahum",
+        "chapters": 3,
+        "key": "a34"
+      },
+      {
+        "name": "Habakkuk",
+        "chapters": 3,
+        "key": "a35"
+      },
+      {
+        "name": "Zephaniah",
+        "chapters": 3,
+        "key": "a36"
+      },
+      {
+        "name": "Haggai",
+        "chapters": 2,
+        "key": "a37"
+      },
+      {
+        "name": "Zechariah",
+        "chapters": 14,
+        "key": "a38"
+      },
+      {
+        "name": "Malachi",
+        "chapters": 4,
+        "key": "a39"
+      }
+    ]
+  },
+  {
+    "NT": [
+      {
+        "name": "Matthew",
+        "chapters": 28,
+        "key": "b1"
+      },
+      {
+        "name": "Mark",
+        "chapters": 16,
+        "key": "b2"
+      },
+      {
+        "name": "Luke",
+        "chapters": 24,
+        "key": "b3"
+      },
+      {
+        "name": "John",
+        "chapters": 21,
+        "key": "b4"
+      },
+      {
+        "name": "Acts",
+        "chapters": 28,
+        "key": "b5"
+      },
+      {
+        "name": "Romans",
+        "chapters": 16,
+        "key": "b6"
+      },
+      {
+        "name": "1 Corinthians",
+        "chapters": 16,
+        "key": "b7"
+      },
+      {
+        "name": "2 Corinthians",
+        "chapters": 13,
+        "key": "b8"
+      },
+      {
+        "name": "Galatians",
+        "chapters": 6,
+        "key": "b9"
+      },
+      {
+        "name": "Ephesians",
+        "chapters": 6,
+        "key": "b10"
+      },
+      {
+        "name": "Colossians",
+        "chapters": 4,
+        "key": "b11"
+      },
+      {
+        "name": "1 Thessalonians",
+        "chapters": 5,
+        "key": "b12"
+      },
+      {
+        "name": "2 Thessalonians",
+        "chapters": 3,
+        "key": "b13"
+      },
+      {
+        "name": "1 Timothy",
+        "chapters": 6,
+        "key": "b14"
+      },
+      {
+        "name": "2 Timothy",
+        "chapters": 4,
+        "key": "b15"
+      },
+      {
+        "name": "Titus",
+        "chapters": 3,
+        "key": "b16"
+      },
+      {
+        "name": "Philemon",
+        "chapters": 1,
+        "key": "b17"
+      },
+      {
+        "name": "Hebrews",
+        "chapters": 13,
+        "key": "b18"
+      },
+      {
+        "name": "James",
+        "chapters": 5,
+        "key": "b19"
+      },
+      {
+        "name": "1 Peter",
+        "chapters": 5,
+        "key": "b20"
+      },
+      {
+        "name": "2 Peter",
+        "chapters": 5,
+        "key": "b21"
+      },
+      {
+        "name": "1 John",
+        "chapters": 5,
+        "key": "b22"
+      },
+      {
+        "name": "2 John",
+        "chapters": 1,
+        "key": "b23"
+      },
+      {
+        "name": "3 John",
+        "chapters": 1,
+        "key": "b24"
+      },
+      {
+        "name": "Jude",
+        "chapters": 1,
+        "key": "b25"
+      },
+      {
+        "name": "Revelation",
+        "chapters": 22,
+        "key": "b26"
+      }
+    ]
+  }
+]

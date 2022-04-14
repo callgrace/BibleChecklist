@@ -36,7 +36,8 @@
     "react-native-web": "^0.17.5",
     "styled-component": "^2.8.0",
     "styled-components": "^5.3.1",
-    "styled-system": "^5.1.5"
+    "styled-system": "^5.1.5",
+    "expo-updates": "~0.8.2"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"

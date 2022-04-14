@@ -108,7 +108,7 @@ class TotalProgress extends React.Component {
                         : styles.progressText
                     }
                   >
-                    You’ve read {context.todayCount} chapters today! Good job!
+                    You’ve read {context.todayCount} chapters! Good job!
                   </Text>
                 </View>
               </View>
